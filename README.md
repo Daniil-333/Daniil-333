@@ -131,6 +131,12 @@
     <td>2022</td>
   </tr>
   <tr>
+    <td>PHP Уровень 2</td>
+    <td>Task manager на чистоми PHP (без ООП)</td>
+    <td><a href="https://github.com/Daniil-333/php1">Ссылка</a></td>
+    <td>2022</td>
+  </tr>
+  <tr>
     <td>Магазин одежды</td>
     <td>Первый опыт вёрстки без применения JavaScript. Так же на момент вёрстки не было знаний PHP и инструментов сборки.</td>
     <td><a href="https://github.com/Daniil-333/clothes/tree/dz-8">Ссылка</a></td>

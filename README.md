@@ -131,7 +131,7 @@
     <td>2022</td>
   </tr>
   <tr>
-    <td>PHP Уровень 2</td>
+    <td>PHP Уровень 1</td>
     <td>Task manager на чистоми PHP (без ООП)</td>
     <td><a href="https://github.com/Daniil-333/php1">Ссылка</a></td>
     <td>2022</td>

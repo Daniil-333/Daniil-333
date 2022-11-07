@@ -22,81 +22,96 @@
 
 <h3>Первый опыт коммерческой вёрстки</h3>
 <p>Ниже приведены ссылки на сайты, свёрстанные за время работы в веб-студии в период с апреля 2021 года по февраль 2022 года. 
-  При сборке использовал Gulp. Стек PHP-JS</p>
+  Стек PHP-JS</p>
 <table>
   <tr>
     <td>Название</td>
     <td>Описание</td>
+    <td>Инструменты</td>
     <td>Ссылка на сайт</td>
   </tr>
   <tr>
     <td>Landing page</td>
     <td>Электронный учет движения топлива на предприятии</td>
+    <td>HTML-CSS-JS-jQuery</td>
     <td><a href="https://fuel-kontrol.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Многостраничный сайт</td>
     <td>Железобетонная продукция. Доставка по Тюмени и области</td>
+    <td>HTML-CSS-JS-jQuery</td>
     <td><a href="https://zavodrotor.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Landing page</td>
-    <td>Смазочные материалы</td>
+    <td>Смазочные материалы. Начиная с этого сайта, при сборке использовался Gulp. </td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://amex72.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Landing page</td>
     <td>Студия WEB-проектов. Создание и продвижение</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://pr.ww.net.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Landing page</td>
     <td>Идентификация АСН в ГАИС «ЭРА ГЛОНАСС»</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://asn.tt-72.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Интернет-каталог</td>
     <td>ВИДЕОНАБЛЮДЕНИЕ. Отслеживание транспорта </td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://carvis.tt-72.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Landing page</td>
     <td>Эффективное оформление аккаунта в Instagram</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://inst.ww.net.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Сайт-каталог услуг</td>
     <td>Услуги грузчиков и грузоперевозки. Вёрстка + натяжка на WordPress</td>
+    <td>HTML-CSS-JS-jQuery-Gulp-WordPress</td>
     <td><a href="https://gruzchiki365.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Landing page</td>
     <td>Центр ремонта коммерческой техники легковые, среднетоннажные и грузовые автомобили</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://staves.uk" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Landing page</td>
     <td>Независимый сервис по подбору интернет-провайдера</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://iaonline.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>CRM</td>
     <td>Сервис передачи показаний счетчиков</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://vinzili-pay.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Сайт-каталог</td>
     <td>Каталог доставки передач в учреждения ФСИН города Тюмени</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://ahi72.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Многостраничный сайт</td>
     <td>Пoисково-спасательная организация «Регион спас». Вёрстка + программирование форм обратной связи с отправкой файла на сервер.</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="http://xn--80affnzficoc.xn--p1ai/" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Многостраничный сайт</td>
     <td>Лицензирование и капитальный ремонт скважин на воду</td>
+    <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="http://sibvodgeo.ru" target="_blank">ссылка</a></td>
   </tr>
 </table>

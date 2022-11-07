@@ -125,9 +125,15 @@
     <td>Год</td>
   </tr>
   <tr>
+    <td>PHP Уровень 2</td>
+    <td>Backend API для сайта-блога на чистоми PHP</td>
+    <td><a href="https://github.com/Daniil-333/php2/tree/lesson8">Ссылка</a></td>
+    <td>2022</td>
+  </tr>
+  <tr>
     <td>Магазин одежды</td>
     <td>Первый опыт вёрстки без применения JavaScript. Так же на момент вёрстки не было знаний PHP и инструментов сборки.</td>
-    <td>https://github.com/Daniil-333/clothes/tree/dz-8</td>
+    <td><a href="https://github.com/Daniil-333/clothes/tree/dz-8">Ссылка</a></td>
     <td>2020</td>
   </tr>
 </table>

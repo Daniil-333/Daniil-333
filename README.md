@@ -141,6 +141,12 @@
     <td>Год</td>
   </tr>
   <tr>
+    <td>Vue3</td>
+    <td>Магазин одежды. Без Backend</td>
+    <td><a href="https://github.com/Daniil-333/js2_dz7/tree/feature1">Ссылка</a></td>
+    <td>2022</td>
+  </tr>
+  <tr>
     <td>Laravel</td>
     <td>Агрегатор новостных каналов</td>
     <td><a href="https://github.com/Daniil-333/laravel_GB/tree/lesson10">Ссылка</a></td>
@@ -159,7 +165,7 @@
     <td>2022</td>
   </tr>
   <tr>
-    <td>Магазин одежды</td>
+    <td>HTML-CSS</td>
     <td>Первый опыт вёрстки без применения JavaScript. Так же на момент вёрстки не было знаний PHP и инструментов сборки.</td>
     <td><a href="https://github.com/Daniil-333/clothes/tree/dz-8">Ссылка</a></td>
     <td>2020</td>

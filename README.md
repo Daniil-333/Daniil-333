@@ -72,24 +72,6 @@
     <td><a href="http://xn--80affnzficoc.xn--p1ai/" target="_blank">ссылка</a></td>
   </tr>
   <tr>
-    <td>Сайт-каталог</td>
-    <td>Каталог доставки передач в учреждения ФСИН города Тюмени</td>
-    <td>HTML-CSS-JS-jQuery-Gulp</td>
-    <td><a href="https://ahi72.ru" target="_blank">ссылка</a></td>
-  </tr>
-  <tr>
-    <td>CRM</td>
-    <td>Сервис передачи показаний счетчиков</td>
-    <td>HTML-CSS-JS-jQuery-Gulp</td>
-    <td><a href="https://vinzili-pay.ru" target="_blank">ссылка</a></td>
-  </tr>
-  <tr>
-    <td>Landing page</td>
-    <td>Независимый сервис по подбору интернет-провайдера</td>
-    <td>HTML-CSS-JS-jQuery-Gulp</td>
-    <td><a href="https://iaonline.ru" target="_blank">ссылка</a></td>
-  </tr>
-  <tr>
     <td>Landing page</td>
     <td>Центр ремонта коммерческой техники легковые, среднетоннажные и грузовые автомобили</td>
     <td>HTML-CSS-JS-jQuery-Gulp</td>
@@ -124,12 +106,6 @@
     <td>Студия WEB-проектов. Создание и продвижение</td>
     <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://pr.ww.net.ru" target="_blank">ссылка</a></td>
-  </tr>
-  <tr>
-    <td>Landing page</td>
-    <td>Смазочные материалы. Начиная с этого сайта, при сборке использовался Gulp. </td>
-    <td>HTML-CSS-JS-jQuery-Gulp</td>
-    <td><a href="https://amex72.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Многостраничный сайт</td>

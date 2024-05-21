@@ -26,7 +26,7 @@
     <td>2023</td>
   </tr>
   <tr>
-    <td>Интернет портал по продаже подарочных сертификатов</td>
+    <td>Интернет агрегатор по продаже подарочных сертификатов</td>
     <td>Вёрстка с нуля + программирование ряда модулей</td>
     <td><a href="https://www.bantikov.ru/" target="_blank">Ссылка</a></td>
     <td>2022-2023</td>
@@ -46,6 +46,22 @@
     <td>Центр детского развития “УМКА” в Марьино</td>
     <td><a href="https://umka-moscow.ru/" target="_blank">Ссылка</a></td>
     <td>2022</td>
+  </tr>
+</table>
+
+<h3>Опыт работы с Vue (некоммерческий)</h3>
+<table>
+  <tr>
+    <td>Название</td>
+    <td>Описание</td>
+    <td>Ссылка</td>
+    <td>Год</td>
+  </tr>
+  <tr>
+    <td>SPA</td>
+    <td>Магазин одежды</td>
+    <td><a href="https://github.com/Daniil-333/js2_dz7/tree/serverDB" target="_blank">Ссылка</a></td>
+    <td>2023</td>
   </tr>
 </table>
 

@@ -63,6 +63,12 @@
     <td><a href="https://github.com/Daniil-333/aeg" target="_blank">Ссылка</a></td>
     <td>2024</td>
   </tr>
+  <tr>
+    <td>Тестовое задание</td>
+    <td>Страница промо-акции застройщика</td>
+    <td><a href="https://github.com/Daniil-333/paritet" target="_blank">Ссылка</a></td>
+    <td>2024</td>
+  </tr>
 </table>
 
 <h3>Опыт работы с Vue (некоммерческий)</h3>

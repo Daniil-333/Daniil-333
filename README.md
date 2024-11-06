@@ -13,9 +13,9 @@
     <td>Год</td>
   </tr>
     <tr>
-    <td>Инвестиционная платформа</td>
+    <td>Инвестиционная платформа (Финтех)</td>
     <td>Редизайн + программирование ряда модулей</td>
-    <td><a href="https://regolith.pro" target="_blank">Ссылка</a></td>
+    <td><a href="https://regolith.com" target="_blank">Ссылка</a></td>
     <td>2022-2024</td>
   </tr>
   </tr>

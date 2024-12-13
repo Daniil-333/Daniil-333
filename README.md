@@ -75,7 +75,7 @@
   <tr>
     <td>Тестовое задание</td>
     <td>Страница Лэндинга</td>
-    <td><a href="https://github.com/Daniil-333/city-parsing" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/Daniil-333/web_booster" target="_blank">Ссылка</a></td>
     <td>2024</td>
   </tr>
   <tr>

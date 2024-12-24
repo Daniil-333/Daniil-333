@@ -58,6 +58,12 @@
     <td>Год</td>
   </tr>
   <tr>
+    <td>Тестовое задание</td>
+    <td>Страница сайта с динамическим фильтром на JavaScript</td>
+    <td><a href="https://github.com/Daniil-333/green_leaf" target="_blank">Ссылка</a></td>
+    <td>2024</td>
+  </tr>
+  <tr>
     <td>Pet-проект</td>
     <td>
       <h3>Портал для размещения видео и статей.</h6>

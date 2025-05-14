@@ -59,6 +59,12 @@
   </tr>
   <tr>
     <td>Тестовое задание</td>
+    <td>Laravel API Registration</td>
+    <td><a href="https://github.com/Daniil-333/laravel-api-jwt" target="_blank">Ссылка</a></td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>Тестовое задание</td>
     <td>REST API с использованием Vue</td>
     <td><a href="https://github.com/Daniil-333/laravel-rest-api" target="_blank">Ссылка</a></td>
     <td>2024</td>

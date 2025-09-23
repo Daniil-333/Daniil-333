@@ -59,6 +59,12 @@
   </tr>
   <tr>
     <td>Тестовое задание</td>
+    <td>Laravel API CRUD</td>
+    <td><a href="https://github.com/Daniil-333/laravel-todo-list" target="_blank">Ссылка</a></td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>Тестовое задание</td>
     <td>Laravel API Registration</td>
     <td><a href="https://github.com/Daniil-333/laravel-api-jwt" target="_blank">Ссылка</a></td>
     <td>2025</td>

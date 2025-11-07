@@ -49,6 +49,22 @@
   </tr>
 </table>
 
+<h3>Опыт работы с React-TypeScript (некоммерческий)</h3>
+<table>
+  <tr>
+    <td>Название</td>
+    <td>Описание</td>
+    <td>Ссылка</td>
+    <td>Год</td>
+  </tr>
+    <tr>
+      <td>Тестовое задание</td>
+      <td>Todo лист (стек React-TypeScript-Node.js-Zustnad)</td>
+      <td><a href="https://github.com/Daniil-333/react-todo" target="_blank">Ссылка</a></td>
+      <td>2025</td>
+  </tr>
+</table>
+
 <h3>Опыт работы с Laravel (некоммерческий)</h3>
 <table>
   <tr>

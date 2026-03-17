@@ -165,28 +165,10 @@
     <td>Ссылка на сайт</td>
   </tr>
   <tr>
-    <td>Многостраничный сайт</td>
-    <td>Лицензирование и капитальный ремонт скважин на воду</td>
-    <td>HTML-CSS-JS-jQuery-Gulp</td>
-    <td><a href="http://sibvodgeo.ru" target="_blank">ссылка</a></td>
-  </tr>
-  <tr>
-    <td>Многостраничный сайт</td>
-    <td>Пoисково-спасательная организация «Регион спас». Вёрстка + программирование форм обратной связи с отправкой файла на сервер.</td>
-    <td>HTML-CSS-JS-jQuery-Gulp</td>
-    <td><a href="http://xn--80affnzficoc.xn--p1ai/" target="_blank">ссылка</a></td>
-  </tr>
-  <tr>
     <td>Landing page</td>
     <td>Центр ремонта коммерческой техники легковые, среднетоннажные и грузовые автомобили</td>
     <td>HTML-CSS-JS-jQuery-Gulp</td>
     <td><a href="https://staves.uk" target="_blank">ссылка</a></td>
-  </tr>
-  <tr>
-    <td>Сайт-каталог услуг</td>
-    <td>Услуги грузчиков и грузоперевозки. Вёрстка + натяжка на WordPress</td>
-    <td>HTML-CSS-JS-jQuery-Gulp-WordPress</td>
-    <td><a href="https://gruzchiki365.ru" target="_blank">ссылка</a></td>
   </tr>
   <tr>
     <td>Landing page</td>

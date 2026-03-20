@@ -49,6 +49,30 @@
   </tr>
 </table>
 
+<h3>Стек Laravel-Inertia-Vue-TypeScript</h3>
+<table>
+  <tr>
+    <td>Название</td>
+    <td>Описание</td>
+    <td>Ссылка</td>
+    <td>Год</td>
+  </tr>
+    <tr>
+      <td>Pet-проект</td>
+      <td>
+          <h3>Портал для размещения видео и статей.</h6>
+          <ul>
+            <li>Регистрация только для пользователей из "белого списка"</li>
+            <li>Пагинация с сортировкой и фильтрацией</li>
+            <li>Капча при регистрации</li>
+            <li>Админ-панель на Moonshine</li>
+          </ul>  
+      </td>
+      <td>[Ссылка](https://github.com/Daniil-333/portal-test)</td>
+      <td>2026</td>
+  </tr>
+</table>
+
 <h3>Опыт работы с React-TypeScript (некоммерческий)</h3>
 <table>
   <tr>

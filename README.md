@@ -66,9 +66,10 @@
             <li>Пагинация с сортировкой и фильтрацией</li>
             <li>Капча при регистрации</li>
             <li>Админ-панель на Moonshine</li>
-          </ul>  
+          </ul>
+          <a href="https://guru4web.online" target="_blank">Ссылка (сайт)</a>
       </td>
-      <td>[Ссылка](https://github.com/Daniil-333/portal-test)</td>
+      <td><a href="https://github.com/Daniil-333/portal-test" target="_blank">Ссылка (код)</a></td>
       <td>2026</td>
   </tr>
 </table>
